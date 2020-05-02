@@ -25,28 +25,28 @@
 #catandme{
     z-index: 1;
     position: absolute;
-    top: 250px;
+    top: 240px;
     left: 400px;
 }
 
 #dudu{
     z-index: 1;
     position: absolute;
-    top: 250px;
+    top: 240px;
     left: 640px;
 }
 
 #apollo{
     z-index: 1;
     position: absolute;
-    top: 250px;
+    top: 240px;
     left: 880px;
 }
 
 #jacket{
     z-index: 1;
     position: absolute;
-    top: 250px;
+    top: 240px;
     left: 1125px;
 }
 
